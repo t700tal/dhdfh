@@ -1,5 +1,5 @@
 [build]
-  command = "CI= NODE_OPTIONS=--openssl-legacy-provider react-scripts build"
+  command = "react-scripts build"
   publish = "/build"
   base ="/"
 
