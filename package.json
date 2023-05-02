@@ -1,6 +1,5 @@
 {
   "name": "frontend",
-  "proxy": "https://weary-erin-vestments.cyclic.app/",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
