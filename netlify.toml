@@ -1,5 +1,5 @@
 [build]
-  command = "react-scripts build"
+  CI = "react-scripts build"
   publish = "/build"
   base ="/"
 
