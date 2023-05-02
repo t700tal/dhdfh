@@ -10,7 +10,7 @@ import Axios from 'axios'
 
 const App = () => {
 
-  Axios.defaults.baseURL = "https://weary-erin-vestments.cyclic.app"
+  Axios.defaults.baseURL = "https://weary-erin-vestments.cyclic.app/"
   return (
     <Router>
       <Header />
